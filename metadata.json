@@ -1,0 +1,6 @@
+{
+  "name": "EcoBox — Школьная эко-система",
+  "description": "Сдавай пластик, металл и стекло в умный контейнер, копи школьную валюту EcoCoins и обменивай баллы на бонусы в столовой.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
